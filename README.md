@@ -4,6 +4,7 @@ This is a starter template for building a SaaS application using **Next.js** wit
 
 **Demo: [https://next-saas-start.vercel.app/](https://next-saas-start.vercel.app/)**
 
+
 <details>
   <summary>Why did I make this?</summary>
   
